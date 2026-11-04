@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nxtcraft.github.io/ai-transcribe/sitemap.xml
